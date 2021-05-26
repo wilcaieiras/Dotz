@@ -1,0 +1,10 @@
+source "http://rubygems.org"
+
+gem "cucumber"
+gem "rspec"
+gem "httparty"
+gem "report_builder"
+gem "json"
+gem "solargraph"
+gem "json-schema"
+gem "prettier"
